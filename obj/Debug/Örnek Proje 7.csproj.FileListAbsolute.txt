@@ -1,0 +1,8 @@
+C:\Users\rumeysacoskun\Desktop\C# Örneklerim\Örnek Proje 7\bin\Debug\Örnek Proje 7.exe.config
+C:\Users\rumeysacoskun\Desktop\C# Örneklerim\Örnek Proje 7\bin\Debug\Örnek Proje 7.exe
+C:\Users\rumeysacoskun\Desktop\C# Örneklerim\Örnek Proje 7\bin\Debug\Örnek Proje 7.pdb
+C:\Users\rumeysacoskun\Desktop\C# Örneklerim\Örnek Proje 7\obj\Debug\Örnek Proje 7.csproj.AssemblyReference.cache
+C:\Users\rumeysacoskun\Desktop\C# Örneklerim\Örnek Proje 7\obj\Debug\Örnek Proje 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\rumeysacoskun\Desktop\C# Örneklerim\Örnek Proje 7\obj\Debug\Örnek Proje 7.csproj.CoreCompileInputs.cache
+C:\Users\rumeysacoskun\Desktop\C# Örneklerim\Örnek Proje 7\obj\Debug\Örnek Proje 7.exe
+C:\Users\rumeysacoskun\Desktop\C# Örneklerim\Örnek Proje 7\obj\Debug\Örnek Proje 7.pdb
